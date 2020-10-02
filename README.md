@@ -1,3 +1,14 @@
+# React - Cod3r
+
+- [x] Criando Projeto 
+```
+create-react-app
+```
+- Componentes
+  1. [x] _Componente Funcional_
+  2. [] _Componente com Parâmetro_
+  3. [] _Múltiplos Componentes_
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
